@@ -1,0 +1,14 @@
+{
+  "name": "SafePin三原版",
+  "short_name": "SafePin三原",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E53E3E",
+  "description": "SafePin三原版（非公式）- 三原市内の指定避難所・緊急避難場所・AED・公衆トイレをオフラインでも確認できる防災マップアプリ",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

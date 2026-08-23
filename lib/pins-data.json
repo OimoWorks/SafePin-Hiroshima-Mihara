@@ -1,0 +1,5272 @@
+{
+  "pins": [
+    {
+      "id": "evac-1",
+      "category": "evacuation_site",
+      "name": "リージョンプラザ",
+      "address": "広島県三原市円一町2-1-1",
+      "lat": 34.396342,
+      "lng": 133.077722,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-2",
+      "category": "evacuation_site",
+      "name": "中央公民館",
+      "address": "広島県三原市円一町2-3-1",
+      "lat": 34.395179,
+      "lng": 133.078092,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-3",
+      "category": "evacuation_site",
+      "name": "武道館",
+      "address": "広島県三原市円一町2-7-1",
+      "lat": 34.395913,
+      "lng": 133.077057,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-4",
+      "category": "evacuation_site",
+      "name": "南小学校",
+      "address": "広島県三原市円一町2-7-2",
+      "lat": 34.395444,
+      "lng": 133.077242,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-5",
+      "category": "evacuation_site",
+      "name": "下北方老人集会所",
+      "address": "広島県三原市下北方2-23-18",
+      "lat": 34.406761,
+      "lng": 132.971062,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-6",
+      "category": "evacuation_site",
+      "name": "本郷中学校",
+      "address": "広島県三原市下北方2-27-1",
+      "lat": 34.407066,
+      "lng": 132.967488,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-7",
+      "category": "evacuation_site",
+      "name": "県立広島大学三原キャンパス",
+      "address": "広島県三原市学園町1-1",
+      "lat": 34.391154,
+      "lng": 133.056443,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-8",
+      "category": "evacuation_site",
+      "name": "三原小学校",
+      "address": "広島県三原市館町2-3-1",
+      "lat": 34.40347,
+      "lng": 133.083283,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-9",
+      "category": "evacuation_site",
+      "name": "広島大学附属三原小・中学校",
+      "address": "広島県三原市館町2-6-1",
+      "lat": 34.402808,
+      "lng": 133.084855,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-10",
+      "category": "evacuation_site",
+      "name": "羽倉コミュニティホーム",
+      "address": "広島県三原市久井町羽倉1341-3",
+      "lat": 34.505745,
+      "lng": 133.012451,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-11",
+      "category": "evacuation_site",
+      "name": "旧羽倉コミュニティホーム",
+      "address": "広島県三原市久井町羽倉1433-2",
+      "lat": 34.503733,
+      "lng": 133.014733,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-12",
+      "category": "evacuation_site",
+      "name": "久井運動公園自由広場",
+      "address": "広島県三原市久井町羽倉39",
+      "lat": 34.503537,
+      "lng": 133.022027,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-13",
+      "category": "evacuation_site",
+      "name": "久井コミュニティセンター",
+      "address": "広島県三原市久井町下津1397",
+      "lat": 34.536273,
+      "lng": 133.036076,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-14",
+      "category": "evacuation_site",
+      "name": "下津コミュニティホーム",
+      "address": "広島県三原市久井町下津2326-6",
+      "lat": 34.528696,
+      "lng": 133.039272,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-15",
+      "category": "evacuation_site",
+      "name": "久井小・中学校",
+      "address": "広島県三原市久井町下津735",
+      "lat": 34.517148,
+      "lng": 133.034084,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-16",
+      "category": "evacuation_site",
+      "name": "吉田スポーツ広場",
+      "address": "広島県三原市久井町吉田141-2",
+      "lat": 34.550245,
+      "lng": 133.070664,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-17",
+      "category": "evacuation_site",
+      "name": "吉田コミュニティホーム",
+      "address": "広島県三原市久井町吉田512",
+      "lat": 34.537469,
+      "lng": 133.058025,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-18",
+      "category": "evacuation_site",
+      "name": "江木スポーツ広場",
+      "address": "広島県三原市久井町江木533",
+      "lat": 34.534824,
+      "lng": 133.042651,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-19",
+      "category": "evacuation_site",
+      "name": "久井の市コミュニティホーム",
+      "address": "広島県三原市久井町江木98-5",
+      "lat": 34.540166,
+      "lng": 133.037523,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-20",
+      "category": "evacuation_site",
+      "name": "久井運動公園Ｂ＆Ｇ海洋センター",
+      "address": "広島県三原市久井町坂井原10409-3",
+      "lat": 34.504646,
+      "lng": 133.023205,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-21",
+      "category": "evacuation_site",
+      "name": "坂井原老人集会所",
+      "address": "広島県三原市久井町坂井原1103-3",
+      "lat": 34.482726,
+      "lng": 133.036833,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-22",
+      "category": "evacuation_site",
+      "name": "旧久井南小学校",
+      "address": "広島県三原市久井町坂井原3024",
+      "lat": 34.488596,
+      "lng": 133.03256,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-23",
+      "category": "evacuation_site",
+      "name": "久井南コミュニティセンター",
+      "address": "広島県三原市久井町山中野1337",
+      "lat": 34.488097,
+      "lng": 133.010559,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-24",
+      "category": "evacuation_site",
+      "name": "中野老人集会所",
+      "address": "広島県三原市久井町山中野1615",
+      "lat": 34.490336,
+      "lng": 133.011649,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-25",
+      "category": "evacuation_site",
+      "name": "芋堀老人集会所",
+      "address": "広島県三原市久井町山中野278-8",
+      "lat": 34.480409,
+      "lng": 132.995885,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-26",
+      "category": "evacuation_site",
+      "name": "小林集会所（法林寺）",
+      "address": "広島県三原市久井町小林125-3",
+      "lat": 34.497042,
+      "lng": 133.004442,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-27",
+      "category": "evacuation_site",
+      "name": "泉コミュニティホーム",
+      "address": "広島県三原市久井町泉1341-10",
+      "lat": 34.539578,
+      "lng": 133.009354,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-28",
+      "category": "evacuation_site",
+      "name": "土取コミュニティホーム",
+      "address": "広島県三原市久井町土取417-1",
+      "lat": 34.474669,
+      "lng": 133.021347,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-29",
+      "category": "evacuation_site",
+      "name": "久井保健福祉センター（久井支所）",
+      "address": "広島県三原市久井町和草1906-1",
+      "lat": 34.518088,
+      "lng": 133.025848,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-30",
+      "category": "evacuation_site",
+      "name": "黒郷コミュニティホーム",
+      "address": "広島県三原市久井町和草2042-1",
+      "lat": 34.516615,
+      "lng": 133.027335,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-31",
+      "category": "evacuation_site",
+      "name": "和草コミュニティホーム",
+      "address": "広島県三原市久井町和草761-1",
+      "lat": 34.532299,
+      "lng": 133.018116,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-32",
+      "category": "evacuation_site",
+      "name": "莇原コミュニティホーム",
+      "address": "広島県三原市久井町莇原746",
+      "lat": 34.549669,
+      "lng": 133.043098,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-33",
+      "category": "evacuation_site",
+      "name": "芸術文化センター（ポポロ）",
+      "address": "広島県三原市宮浦2-1-1",
+      "lat": 34.400881,
+      "lng": 133.067835,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-34",
+      "category": "evacuation_site",
+      "name": "宮浦中学校",
+      "address": "広島県三原市宮浦5-29-1",
+      "lat": 34.393165,
+      "lng": 133.057355,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-35",
+      "category": "evacuation_site",
+      "name": "宮浦コミュニティセンター",
+      "address": "広島県三原市宮浦6-9-22",
+      "lat": 34.394188,
+      "lng": 133.062285,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-36",
+      "category": "evacuation_site",
+      "name": "第三中学校",
+      "address": "広島県三原市宮沖3-15-2",
+      "lat": 34.394181,
+      "lng": 133.072744,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-37",
+      "category": "evacuation_site",
+      "name": "県立三原高等学校",
+      "address": "広島県三原市宮沖4-11-1",
+      "lat": 34.393444,
+      "lng": 133.072429,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-38",
+      "category": "evacuation_site",
+      "name": "地域学習センター（さざなみ学校）",
+      "address": "広島県三原市幸崎久和喜3-18",
+      "lat": 34.344227,
+      "lng": 133.068434,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-39",
+      "category": "evacuation_site",
+      "name": "旧渡瀬小学校",
+      "address": "広島県三原市幸崎町渡瀬36-20",
+      "lat": 34.346753,
+      "lng": 133.013767,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-40",
+      "category": "evacuation_site",
+      "name": "幸崎中学校",
+      "address": "広島県三原市幸崎能地3-16-1",
+      "lat": 34.338421,
+      "lng": 133.036985,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-41",
+      "category": "evacuation_site",
+      "name": "幸崎小学校",
+      "address": "広島県三原市幸崎能地3-16-2",
+      "lat": 34.339151,
+      "lng": 133.036548,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-42",
+      "category": "evacuation_site",
+      "name": "幸崎コミュニティセンター",
+      "address": "広島県三原市幸崎能地3-8-13",
+      "lat": 34.337749,
+      "lng": 133.037615,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-43",
+      "category": "evacuation_site",
+      "name": "高坂町コミュニティホーム",
+      "address": "広島県三原市高坂町真良1813-1",
+      "lat": 34.435308,
+      "lng": 132.999677,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-44",
+      "category": "evacuation_site",
+      "name": "旧向田小学校",
+      "address": "広島県三原市鷺浦町向田野浦1712",
+      "lat": 34.32826,
+      "lng": 133.106342,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-45",
+      "category": "evacuation_site",
+      "name": "須ノ上集会所",
+      "address": "広島県三原市鷺浦町向田野浦4318",
+      "lat": 34.336342,
+      "lng": 133.124025,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-46",
+      "category": "evacuation_site",
+      "name": "鷺浦コミュニティセンター",
+      "address": "広島県三原市鷺浦町向田野浦675-4",
+      "lat": 34.329463,
+      "lng": 133.100739,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-47",
+      "category": "evacuation_site",
+      "name": "旧鷺浦小学校",
+      "address": "広島県三原市鷺浦町須波1738",
+      "lat": 34.353035,
+      "lng": 133.113074,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-48",
+      "category": "evacuation_site",
+      "name": "鷺浦小学校",
+      "address": "広島県三原市鷺浦町須波2189",
+      "lat": 34.353135,
+      "lng": 133.117911,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-49",
+      "category": "evacuation_site",
+      "name": "糸崎コミュニティセンター",
+      "address": "広島県三原市糸崎5-10-7",
+      "lat": 34.393462,
+      "lng": 133.107548,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-50",
+      "category": "evacuation_site",
+      "name": "糸崎小学校",
+      "address": "広島県三原市糸崎5-3-1",
+      "lat": 34.391339,
+      "lng": 133.109047,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-51",
+      "category": "evacuation_site",
+      "name": "第一中学校",
+      "address": "広島県三原市糸崎5-7-1",
+      "lat": 34.392843,
+      "lng": 133.108956,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-52",
+      "category": "evacuation_site",
+      "name": "田野浦小学校",
+      "address": "広島県三原市宗郷1-10-1",
+      "lat": 34.386212,
+      "lng": 133.062966,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-53",
+      "category": "evacuation_site",
+      "name": "小坂町コミュニティホーム",
+      "address": "広島県三原市小坂町1264-1",
+      "lat": 34.416783,
+      "lng": 133.017343,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-54",
+      "category": "evacuation_site",
+      "name": "沼北小学校",
+      "address": "広島県三原市小坂町3515",
+      "lat": 34.413414,
+      "lng": 133.01855,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-55",
+      "category": "evacuation_site",
+      "name": "広島県立三原特別支援学校",
+      "address": "広島県三原市小泉町10199-2",
+      "lat": 34.373209,
+      "lng": 132.975784,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-56",
+      "category": "evacuation_site",
+      "name": "小泉小学校",
+      "address": "広島県三原市小泉町4840-1",
+      "lat": 34.369419,
+      "lng": 132.989378,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-57",
+      "category": "evacuation_site",
+      "name": "沼田小学校",
+      "address": "広島県三原市沼田2-1-32",
+      "lat": 34.402437,
+      "lng": 133.041966,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-58",
+      "category": "evacuation_site",
+      "name": "沼田西小学校",
+      "address": "広島県三原市沼田西町松江1508",
+      "lat": 34.394153,
+      "lng": 132.983704,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-59",
+      "category": "evacuation_site",
+      "name": "沼田西・小泉町コミュニティホーム",
+      "address": "広島県三原市沼田西町惣定1168-1",
+      "lat": 34.381772,
+      "lng": 132.99514,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-60",
+      "category": "evacuation_site",
+      "name": "やまみ三原運動公園",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.379437,
+      "lng": 133.009953,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-61",
+      "category": "evacuation_site",
+      "name": "沼田東小学校",
+      "address": "広島県三原市沼田東町片島273",
+      "lat": 34.389462,
+      "lng": 133.020449,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-62",
+      "category": "evacuation_site",
+      "name": "第五中学校",
+      "address": "広島県三原市沼田東町片島532",
+      "lat": 34.388691,
+      "lng": 133.02304,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-63",
+      "category": "evacuation_site",
+      "name": "沼田東コミュニティセンター",
+      "address": "広島県三原市沼田東町片島716",
+      "lat": 34.384582,
+      "lng": 133.021697,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-64",
+      "category": "evacuation_site",
+      "name": "如水館高等学校",
+      "address": "広島県三原市深町1183",
+      "lat": 34.437558,
+      "lng": 133.140422,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-65",
+      "category": "evacuation_site",
+      "name": "深町コミュニティホーム",
+      "address": "広島県三原市深町1565-2",
+      "lat": 34.431344,
+      "lng": 133.136962,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-66",
+      "category": "evacuation_site",
+      "name": "深小学校",
+      "address": "広島県三原市深町1589",
+      "lat": 34.431259,
+      "lng": 133.136226,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-67",
+      "category": "evacuation_site",
+      "name": "須波小学校",
+      "address": "広島県三原市須波1-22-1",
+      "lat": 34.364795,
+      "lng": 133.083318,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-68",
+      "category": "evacuation_site",
+      "name": "須波コミュニティセンター",
+      "address": "広島県三原市須波1-22-2",
+      "lat": 34.37042,
+      "lng": 133.085391,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-69",
+      "category": "evacuation_site",
+      "name": "第四中学校",
+      "address": "広島県三原市須波ハイツ2-26-1",
+      "lat": 34.353846,
+      "lng": 133.077858,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-70",
+      "category": "evacuation_site",
+      "name": "西小学校",
+      "address": "広島県三原市西宮2-7-1",
+      "lat": 34.405013,
+      "lng": 133.066096,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-71",
+      "category": "evacuation_site",
+      "name": "神田公民館",
+      "address": "広島県三原市大和町下徳良106-1",
+      "lat": 34.541436,
+      "lng": 132.950046,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-72",
+      "category": "evacuation_site",
+      "name": "大和人権文化センター",
+      "address": "広島県三原市大和町下徳良107-1",
+      "lat": 34.541757,
+      "lng": 132.949952,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-73",
+      "category": "evacuation_site",
+      "name": "大和文化センター",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541955,
+      "lng": 132.949532,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-74",
+      "category": "evacuation_site",
+      "name": "大和支所",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541613,
+      "lng": 132.949099,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-75",
+      "category": "evacuation_site",
+      "name": "広島三育学院",
+      "address": "広島県三原市大和町下徳良296-2",
+      "lat": 34.553619,
+      "lng": 132.920179,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-76",
+      "category": "evacuation_site",
+      "name": "大和認定こども園",
+      "address": "広島県三原市大和町下徳良697-2",
+      "lat": 34.538938,
+      "lng": 132.921792,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-77",
+      "category": "evacuation_site",
+      "name": "上徳良コミュニティホーム",
+      "address": "広島県三原市大和町上徳良1528-1",
+      "lat": 34.534022,
+      "lng": 132.963632,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-78",
+      "category": "evacuation_site",
+      "name": "蔵宗コミュニティホーム",
+      "address": "広島県三原市大和町蔵宗1244-2",
+      "lat": 34.56453,
+      "lng": 132.903357,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-79",
+      "category": "evacuation_site",
+      "name": "大和中学校",
+      "address": "広島県三原市大和町大具2280",
+      "lat": 34.532825,
+      "lng": 132.920276,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-80",
+      "category": "evacuation_site",
+      "name": "大和小学校",
+      "address": "広島県三原市大和町大具2362-1",
+      "lat": 34.535666,
+      "lng": 132.918174,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-81",
+      "category": "evacuation_site",
+      "name": "大草公民館",
+      "address": "広島県三原市大和町大草9131-2",
+      "lat": 34.500078,
+      "lng": 132.958729,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-82",
+      "category": "evacuation_site",
+      "name": "萩原コミュニティホーム",
+      "address": "広島県三原市大和町萩原2408-1",
+      "lat": 34.563469,
+      "lng": 132.949002,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-83",
+      "category": "evacuation_site",
+      "name": "椹梨公民館",
+      "address": "広島県三原市大和町椋梨1004",
+      "lat": 34.528462,
+      "lng": 132.892503,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-84",
+      "category": "evacuation_site",
+      "name": "くわなし皆来館",
+      "address": "広島県三原市大和町椋梨2431",
+      "lat": 34.530091,
+      "lng": 132.89306,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-85",
+      "category": "evacuation_site",
+      "name": "白竜ドーム",
+      "address": "広島県三原市大和町和木1026-3",
+      "lat": 34.504899,
+      "lng": 132.919045,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-86",
+      "category": "evacuation_site",
+      "name": "和木公民館",
+      "address": "広島県三原市大和町和木1537-6",
+      "lat": 34.514014,
+      "lng": 132.921114,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-87",
+      "category": "evacuation_site",
+      "name": "大和保健福祉センター",
+      "address": "広島県三原市大和町和木1538-1",
+      "lat": 34.513946,
+      "lng": 132.921317,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-88",
+      "category": "evacuation_site",
+      "name": "和木地域ふれあい交流センター",
+      "address": "広島県三原市大和町和木2163-7",
+      "lat": 34.507235,
+      "lng": 132.925204,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-89",
+      "category": "evacuation_site",
+      "name": "第二中学校",
+      "address": "広島県三原市中之町2-14-1",
+      "lat": 34.409562,
+      "lng": 133.096143,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-90",
+      "category": "evacuation_site",
+      "name": "中之町コミュニティセンター",
+      "address": "広島県三原市中之町2-2-1",
+      "lat": 34.407981,
+      "lng": 133.094865,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-91",
+      "category": "evacuation_site",
+      "name": "県立三原東高等学校",
+      "address": "広島県三原市中之町2-7-1",
+      "lat": 34.410074,
+      "lng": 133.099296,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-92",
+      "category": "evacuation_site",
+      "name": "中之町小学校",
+      "address": "広島県三原市中之町6-4-1",
+      "lat": 34.418497,
+      "lng": 133.10695,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-93",
+      "category": "evacuation_site",
+      "name": "三原市人権文化センター",
+      "address": "広島県三原市長谷1-6-1",
+      "lat": 34.397426,
+      "lng": 133.032283,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-94",
+      "category": "evacuation_site",
+      "name": "八幡町コミュニティホーム",
+      "address": "広島県三原市八幡町宮内277",
+      "lat": 34.474878,
+      "lng": 133.084754,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-95",
+      "category": "evacuation_site",
+      "name": "北方グランド・ゴルフ場管理棟",
+      "address": "広島県三原市本郷町上北方1001-1",
+      "lat": 34.413888,
+      "lng": 132.942012,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-96",
+      "category": "evacuation_site",
+      "name": "北方ふれあい集会所",
+      "address": "広島県三原市本郷町上北方1012-1",
+      "lat": 34.413648,
+      "lng": 132.942823,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-97",
+      "category": "evacuation_site",
+      "name": "北方コミュニティセンター",
+      "address": "広島県三原市本郷町上北方1023-1",
+      "lat": 34.413371,
+      "lng": 132.941925,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-98",
+      "category": "evacuation_site",
+      "name": "広島県立中央森林公園",
+      "address": "広島県三原市本郷町上北方1315",
+      "lat": 34.443698,
+      "lng": 132.927918,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-99",
+      "category": "evacuation_site",
+      "name": "旧北方小学校",
+      "address": "広島県三原市本郷町上北方2922",
+      "lat": 34.412417,
+      "lng": 132.943764,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-100",
+      "category": "evacuation_site",
+      "name": "船木コミュニティセンター",
+      "address": "広島県三原市本郷町船木1949",
+      "lat": 34.431873,
+      "lng": 132.967654,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-101",
+      "category": "evacuation_site",
+      "name": "旧船木小学校",
+      "address": "広島県三原市本郷町船木1972",
+      "lat": 34.432885,
+      "lng": 132.96595,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-102",
+      "category": "evacuation_site",
+      "name": "茅田老人集会所",
+      "address": "広島県三原市本郷町船木2514-9",
+      "lat": 34.433681,
+      "lng": 132.97753,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-103",
+      "category": "evacuation_site",
+      "name": "船木防災公園",
+      "address": "広島県三原市本郷町船木5200-18",
+      "lat": 34.436135,
+      "lng": 132.983008,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-104",
+      "category": "evacuation_site",
+      "name": "広井町内会会館",
+      "address": "広島県三原市本郷町南方3373-9",
+      "lat": 34.395091,
+      "lng": 132.965871,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-105",
+      "category": "evacuation_site",
+      "name": "南方コミュニティセンター",
+      "address": "広島県三原市本郷町南方3985-1",
+      "lat": 34.395238,
+      "lng": 132.956795,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-106",
+      "category": "evacuation_site",
+      "name": "本郷西小学校",
+      "address": "広島県三原市本郷町南方4003",
+      "lat": 34.39623,
+      "lng": 132.956384,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-107",
+      "category": "evacuation_site",
+      "name": "尾原中集会所",
+      "address": "広島県三原市本郷町南方7558-2",
+      "lat": 34.398615,
+      "lng": 132.948798,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-108",
+      "category": "evacuation_site",
+      "name": "本郷保健福祉センター",
+      "address": "広島県三原市本郷南5-23-1",
+      "lat": 34.407487,
+      "lng": 132.989287,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-109",
+      "category": "evacuation_site",
+      "name": "県立総合技術高等学校",
+      "address": "広島県三原市本郷南5-25-1",
+      "lat": 34.408151,
+      "lng": 132.988208,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-110",
+      "category": "evacuation_site",
+      "name": "本郷幼稚園",
+      "address": "広島県三原市本郷南5-8-1",
+      "lat": 34.406936,
+      "lng": 132.989208,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-111",
+      "category": "evacuation_site",
+      "name": "本郷保育所",
+      "address": "広島県三原市本郷南5-8-1",
+      "lat": 34.406981,
+      "lng": 132.988971,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-112",
+      "category": "evacuation_site",
+      "name": "本郷西老人集会所",
+      "address": "広島県三原市本郷南6-13-9",
+      "lat": 34.40966,
+      "lng": 132.983604,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-113",
+      "category": "evacuation_site",
+      "name": "本郷生涯学習センター",
+      "address": "広島県三原市本郷南6-25-1",
+      "lat": 34.410676,
+      "lng": 132.983263,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-114",
+      "category": "evacuation_site",
+      "name": "本郷小学校",
+      "address": "広島県三原市本郷北3-15-1",
+      "lat": 34.411281,
+      "lng": 132.985614,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-115",
+      "category": "evacuation_site",
+      "name": "本郷人権文化センター",
+      "address": "広島県三原市本郷北3-16-10",
+      "lat": 34.411603,
+      "lng": 132.98657,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-116",
+      "category": "evacuation_site",
+      "name": "東下岡集会所",
+      "address": "広島県三原市本郷北3-20-7",
+      "lat": 34.411404,
+      "lng": 132.988569,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-117",
+      "category": "evacuation_site",
+      "name": "木原小学校",
+      "address": "広島県三原市木原3-2-20",
+      "lat": 34.392783,
+      "lng": 133.141674,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-118",
+      "category": "evacuation_site",
+      "name": "木原町コミュニティホーム",
+      "address": "広島県三原市木原4-12-1",
+      "lat": 34.392612,
+      "lng": 133.147266,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "evac-119",
+      "category": "evacuation_site",
+      "name": "県立尾道商業高等学校",
+      "address": "広島県尾道市古浜町20-1",
+      "lat": 34.397795,
+      "lng": 133.170529,
+      "detail": {
+        "capacity": 0,
+        "notes": "対応災害: 洪水・土砂災害・高潮・地震・津波"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-1",
+      "category": "shelter",
+      "name": "リージョンプラザ",
+      "address": "広島県三原市円一町2-1-1",
+      "lat": 34.396391,
+      "lng": 133.077571,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-2",
+      "category": "shelter",
+      "name": "中央公民館",
+      "address": "広島県三原市円一町2-3-1",
+      "lat": 34.395182,
+      "lng": 133.078079,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-3",
+      "category": "shelter",
+      "name": "武道館",
+      "address": "広島県三原市円一町2-7-1",
+      "lat": 34.395748,
+      "lng": 133.077509,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-4",
+      "category": "shelter",
+      "name": "南小学校",
+      "address": "広島県三原市円一町2-7-2",
+      "lat": 34.395414,
+      "lng": 133.077285,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-5",
+      "category": "shelter",
+      "name": "下北方老人集会所",
+      "address": "広島県三原市下北方2-23-18",
+      "lat": 34.406761,
+      "lng": 132.971062,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-6",
+      "category": "shelter",
+      "name": "本郷中学校",
+      "address": "広島県三原市下北方2-27-1",
+      "lat": 34.407066,
+      "lng": 132.967488,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-7",
+      "category": "shelter",
+      "name": "県立広島大学三原キャンパス",
+      "address": "広島県三原市学園町1-1",
+      "lat": 34.391154,
+      "lng": 133.056443,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-8",
+      "category": "shelter",
+      "name": "三原小学校",
+      "address": "広島県三原市館町2-3-1",
+      "lat": 34.403847,
+      "lng": 133.08289,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-9",
+      "category": "shelter",
+      "name": "羽倉コミュニティホーム",
+      "address": "広島県三原市久井町羽倉1341-3",
+      "lat": 34.505576,
+      "lng": 133.012329,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-10",
+      "category": "shelter",
+      "name": "久井コミュニティセンター",
+      "address": "広島県三原市久井町下津1397",
+      "lat": 34.536273,
+      "lng": 133.036076,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-11",
+      "category": "shelter",
+      "name": "下津コミュニティホーム",
+      "address": "広島県三原市久井町下津2326-6",
+      "lat": 34.528696,
+      "lng": 133.039272,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-12",
+      "category": "shelter",
+      "name": "久井小・中学校",
+      "address": "広島県三原市久井町下津735",
+      "lat": 34.517148,
+      "lng": 133.034084,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-13",
+      "category": "shelter",
+      "name": "吉田コミュニティホーム",
+      "address": "広島県三原市久井町吉田512",
+      "lat": 34.537469,
+      "lng": 133.058025,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-14",
+      "category": "shelter",
+      "name": "久井運動公園Ｂ＆Ｇ海洋センター",
+      "address": "広島県三原市久井町坂井原10409-3",
+      "lat": 34.504646,
+      "lng": 133.023205,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-15",
+      "category": "shelter",
+      "name": "坂井原コミュニティホーム",
+      "address": "広島県三原市久井町坂井原3011",
+      "lat": 34.487216,
+      "lng": 133.033461,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-16",
+      "category": "shelter",
+      "name": "旧久井南小学校",
+      "address": "広島県三原市久井町坂井原3024",
+      "lat": 34.488596,
+      "lng": 133.03256,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-17",
+      "category": "shelter",
+      "name": "久井南コミュニティセンター",
+      "address": "広島県三原市久井町山中野1337",
+      "lat": 34.488097,
+      "lng": 133.010559,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-18",
+      "category": "shelter",
+      "name": "中野老人集会所",
+      "address": "広島県三原市久井町山中野1615",
+      "lat": 34.490336,
+      "lng": 133.011649,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-19",
+      "category": "shelter",
+      "name": "芋堀老人集会所",
+      "address": "広島県三原市久井町山中野278-8",
+      "lat": 34.480409,
+      "lng": 132.995885,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-20",
+      "category": "shelter",
+      "name": "土取コミュニティホーム",
+      "address": "広島県三原市久井町土取417-1",
+      "lat": 34.474669,
+      "lng": 133.021347,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-21",
+      "category": "shelter",
+      "name": "久井保健福祉センター（久井支所）",
+      "address": "広島県三原市久井町和草1906-1",
+      "lat": 34.518088,
+      "lng": 133.025848,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-22",
+      "category": "shelter",
+      "name": "黒郷コミュニティホーム",
+      "address": "広島県三原市久井町和草2042-1",
+      "lat": 34.516615,
+      "lng": 133.027335,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-23",
+      "category": "shelter",
+      "name": "和草コミュニティホーム",
+      "address": "広島県三原市久井町和草761-1",
+      "lat": 34.532299,
+      "lng": 133.018116,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-24",
+      "category": "shelter",
+      "name": "莇原コミュニティホーム",
+      "address": "広島県三原市久井町莇原746",
+      "lat": 34.549669,
+      "lng": 133.043098,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-25",
+      "category": "shelter",
+      "name": "芸術文化センター（ポポロ）",
+      "address": "広島県三原市宮浦2-1-1",
+      "lat": 34.400921,
+      "lng": 133.068056,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-26",
+      "category": "shelter",
+      "name": "宮浦コミュニティセンター",
+      "address": "広島県三原市宮浦6-9-22",
+      "lat": 34.394215,
+      "lng": 133.06233,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-27",
+      "category": "shelter",
+      "name": "県立三原高等学校",
+      "address": "広島県三原市宮沖4-11-1",
+      "lat": 34.393665,
+      "lng": 133.0727,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-28",
+      "category": "shelter",
+      "name": "地域学習センター（さざなみ学校）",
+      "address": "広島県三原市幸崎久和喜3-18",
+      "lat": 34.344227,
+      "lng": 133.068434,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-29",
+      "category": "shelter",
+      "name": "幸崎コミュニティセンター",
+      "address": "広島県三原市幸崎能地3-8-13",
+      "lat": 34.337749,
+      "lng": 133.037615,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-30",
+      "category": "shelter",
+      "name": "高坂町コミュニティホーム",
+      "address": "広島県三原市高坂町真良1813-1",
+      "lat": 34.435602,
+      "lng": 132.999682,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-31",
+      "category": "shelter",
+      "name": "旧向田小学校",
+      "address": "広島県三原市鷺浦町向田野浦1712",
+      "lat": 34.32826,
+      "lng": 133.106342,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-32",
+      "category": "shelter",
+      "name": "須ノ上集会所",
+      "address": "広島県三原市鷺浦町向田野浦4318",
+      "lat": 34.336342,
+      "lng": 133.124025,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-33",
+      "category": "shelter",
+      "name": "鷺浦コミュニティセンター",
+      "address": "広島県三原市鷺浦町向田野浦675-4",
+      "lat": 34.329463,
+      "lng": 133.100739,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-34",
+      "category": "shelter",
+      "name": "旧鷺浦小学校",
+      "address": "広島県三原市鷺浦町須波1738",
+      "lat": 34.353035,
+      "lng": 133.113074,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-35",
+      "category": "shelter",
+      "name": "道の駅みはら神明の里",
+      "address": "広島県三原市糸崎4-21-1",
+      "lat": 34.397007,
+      "lng": 133.104279,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-36",
+      "category": "shelter",
+      "name": "糸崎コミュニティセンター",
+      "address": "広島県三原市糸崎5-10-7",
+      "lat": 34.393449,
+      "lng": 133.107602,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-37",
+      "category": "shelter",
+      "name": "第一中学校",
+      "address": "広島県三原市糸崎5-7-1",
+      "lat": 34.39278,
+      "lng": 133.108711,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-38",
+      "category": "shelter",
+      "name": "田野浦小学校",
+      "address": "広島県三原市宗郷1-10-1",
+      "lat": 34.386464,
+      "lng": 133.062879,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-39",
+      "category": "shelter",
+      "name": "小坂町コミュニティホーム",
+      "address": "広島県三原市小坂町1264-1",
+      "lat": 34.416752,
+      "lng": 133.017368,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-40",
+      "category": "shelter",
+      "name": "沼北小学校",
+      "address": "広島県三原市小坂町3515",
+      "lat": 34.41347,
+      "lng": 133.01858,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-41",
+      "category": "shelter",
+      "name": "広島県立三原特別支援学校",
+      "address": "広島県三原市小泉町10199-2",
+      "lat": 34.373209,
+      "lng": 132.975784,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-42",
+      "category": "shelter",
+      "name": "沼田西小学校",
+      "address": "広島県三原市沼田西町松江1508",
+      "lat": 34.394497,
+      "lng": 132.983948,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-43",
+      "category": "shelter",
+      "name": "第五中学校",
+      "address": "広島県三原市沼田東町片島532",
+      "lat": 34.388802,
+      "lng": 133.022831,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-44",
+      "category": "shelter",
+      "name": "沼田東コミュニティセンター",
+      "address": "広島県三原市沼田東町片島716",
+      "lat": 34.384593,
+      "lng": 133.021694,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-45",
+      "category": "shelter",
+      "name": "如水館高等学校",
+      "address": "広島県三原市深町1183",
+      "lat": 34.437971,
+      "lng": 133.141877,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-46",
+      "category": "shelter",
+      "name": "深町コミュニティホーム",
+      "address": "広島県三原市深町1565-2",
+      "lat": 34.43134,
+      "lng": 133.136971,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-47",
+      "category": "shelter",
+      "name": "須波小学校",
+      "address": "広島県三原市須波1-22-1",
+      "lat": 34.36521,
+      "lng": 133.083342,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-48",
+      "category": "shelter",
+      "name": "須波コミュニティセンター",
+      "address": "広島県三原市須波1-22-2",
+      "lat": 34.364014,
+      "lng": 133.083475,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-49",
+      "category": "shelter",
+      "name": "神田公民館",
+      "address": "広島県三原市大和町下徳良106-1",
+      "lat": 34.541436,
+      "lng": 132.950046,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-50",
+      "category": "shelter",
+      "name": "大和人権文化センター",
+      "address": "広島県三原市大和町下徳良107-1",
+      "lat": 34.541757,
+      "lng": 132.949952,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-51",
+      "category": "shelter",
+      "name": "大和支所",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541613,
+      "lng": 132.949099,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-52",
+      "category": "shelter",
+      "name": "大和文化センター",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541955,
+      "lng": 132.949532,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-53",
+      "category": "shelter",
+      "name": "上徳良コミュニティホーム",
+      "address": "広島県三原市大和町上徳良1528-1",
+      "lat": 34.534022,
+      "lng": 132.963632,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-54",
+      "category": "shelter",
+      "name": "蔵宗コミュニティホーム",
+      "address": "広島県三原市大和町蔵宗1244-2",
+      "lat": 34.56453,
+      "lng": 132.903357,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-55",
+      "category": "shelter",
+      "name": "大和中学校",
+      "address": "広島県三原市大和町大具2280",
+      "lat": 34.532825,
+      "lng": 132.920276,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-56",
+      "category": "shelter",
+      "name": "大和小学校",
+      "address": "広島県三原市大和町大具2362-1",
+      "lat": 34.535666,
+      "lng": 132.918174,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-57",
+      "category": "shelter",
+      "name": "大草公民館",
+      "address": "広島県三原市大和町大草9131-2",
+      "lat": 34.500078,
+      "lng": 132.958729,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-58",
+      "category": "shelter",
+      "name": "萩原コミュニティホーム",
+      "address": "広島県三原市大和町萩原2408-1",
+      "lat": 34.563469,
+      "lng": 132.949002,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-59",
+      "category": "shelter",
+      "name": "椹梨公民館",
+      "address": "広島県三原市大和町椋梨1004",
+      "lat": 34.528462,
+      "lng": 132.892503,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-60",
+      "category": "shelter",
+      "name": "くわなし皆来館",
+      "address": "広島県三原市大和町椋梨2431",
+      "lat": 34.530091,
+      "lng": 132.89306,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-61",
+      "category": "shelter",
+      "name": "白竜ドーム",
+      "address": "広島県三原市大和町和木1026-3",
+      "lat": 34.504899,
+      "lng": 132.919045,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-62",
+      "category": "shelter",
+      "name": "和木公民館",
+      "address": "広島県三原市大和町和木1537-6",
+      "lat": 34.514014,
+      "lng": 132.921114,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-63",
+      "category": "shelter",
+      "name": "大和保健福祉センター",
+      "address": "広島県三原市大和町和木1538-1",
+      "lat": 34.513946,
+      "lng": 132.921317,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-64",
+      "category": "shelter",
+      "name": "和木地域ふれあい交流センター",
+      "address": "広島県三原市大和町和木2163-7",
+      "lat": 34.507235,
+      "lng": 132.925204,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-65",
+      "category": "shelter",
+      "name": "第二中学校",
+      "address": "広島県三原市中之町2-14-1",
+      "lat": 34.410046,
+      "lng": 133.096811,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-66",
+      "category": "shelter",
+      "name": "中之町コミュニティセンター",
+      "address": "広島県三原市中之町2-2-1",
+      "lat": 34.407948,
+      "lng": 133.094908,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-67",
+      "category": "shelter",
+      "name": "県立三原東高等学校",
+      "address": "広島県三原市中之町2-7-1",
+      "lat": 34.409321,
+      "lng": 133.09852,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-68",
+      "category": "shelter",
+      "name": "三原市人権文化センター",
+      "address": "広島県三原市長谷1-6-1",
+      "lat": 34.397485,
+      "lng": 133.032335,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-69",
+      "category": "shelter",
+      "name": "八幡町コミュニティホーム",
+      "address": "広島県三原市八幡町宮内277",
+      "lat": 34.475068,
+      "lng": 133.084466,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-70",
+      "category": "shelter",
+      "name": "北方グランド・ゴルフ場管理棟",
+      "address": "広島県三原市本郷町上北方1001-1",
+      "lat": 34.413888,
+      "lng": 132.942012,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-71",
+      "category": "shelter",
+      "name": "北方ふれあい集会所",
+      "address": "広島県三原市本郷町上北方1012-1",
+      "lat": 34.413648,
+      "lng": 132.942823,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-72",
+      "category": "shelter",
+      "name": "北方コミュニティセンター",
+      "address": "広島県三原市本郷町上北方1023-1",
+      "lat": 34.413371,
+      "lng": 132.941925,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-73",
+      "category": "shelter",
+      "name": "広島県立中央森林公園",
+      "address": "広島県三原市本郷町上北方1315",
+      "lat": 34.443698,
+      "lng": 132.927918,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-74",
+      "category": "shelter",
+      "name": "旧北方小学校",
+      "address": "広島県三原市本郷町上北方2922",
+      "lat": 34.412417,
+      "lng": 132.943764,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-75",
+      "category": "shelter",
+      "name": "船木コミュニティセンター",
+      "address": "広島県三原市本郷町船木1949",
+      "lat": 34.431873,
+      "lng": 132.967654,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-76",
+      "category": "shelter",
+      "name": "旧船木小学校",
+      "address": "広島県三原市本郷町船木1972",
+      "lat": 34.432683,
+      "lng": 132.96653,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-77",
+      "category": "shelter",
+      "name": "茅田老人集会所",
+      "address": "広島県三原市本郷町船木2514-9",
+      "lat": 34.433681,
+      "lng": 132.97753,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-78",
+      "category": "shelter",
+      "name": "南方コミュニティセンター",
+      "address": "広島県三原市本郷町南方3985-1",
+      "lat": 34.395238,
+      "lng": 132.956795,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-79",
+      "category": "shelter",
+      "name": "本郷西小学校",
+      "address": "広島県三原市本郷町南方4003",
+      "lat": 34.39623,
+      "lng": 132.956384,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-80",
+      "category": "shelter",
+      "name": "本郷保健福祉センター",
+      "address": "広島県三原市本郷南5-23-1",
+      "lat": 34.407487,
+      "lng": 132.989287,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-81",
+      "category": "shelter",
+      "name": "県立総合技術高等学校",
+      "address": "広島県三原市本郷南5-25-1",
+      "lat": 34.408151,
+      "lng": 132.988208,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-82",
+      "category": "shelter",
+      "name": "本郷生涯学習センター",
+      "address": "広島県三原市本郷南6-25-1",
+      "lat": 34.410676,
+      "lng": 132.983263,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-83",
+      "category": "shelter",
+      "name": "本郷小学校",
+      "address": "広島県三原市本郷北3-15-1",
+      "lat": 34.411281,
+      "lng": 132.985614,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-84",
+      "category": "shelter",
+      "name": "本郷人権文化センター",
+      "address": "広島県三原市本郷北3-16-10",
+      "lat": 34.411603,
+      "lng": 132.98657,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "shelter-85",
+      "category": "shelter",
+      "name": "県立尾道商業高等学校",
+      "address": "広島県尾道市古浜町20-1",
+      "lat": 34.397654,
+      "lng": 133.17142,
+      "detail": {
+        "capacity": 0,
+        "notes": "指定避難所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-1",
+      "category": "aed",
+      "name": "本庁舎",
+      "address": "広島県三原市港町3-5-1",
+      "lat": 34.397675,
+      "lng": 133.078121,
+      "detail": {
+        "facilityName": "本庁舎",
+        "notes": "1階玄関風除室　利用可能: 月火水木金 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-2",
+      "category": "aed",
+      "name": "総合保健福祉センター",
+      "address": "広島県三原市城町1-2-1",
+      "lat": 34.399578,
+      "lng": 133.081819,
+      "detail": {
+        "facilityName": "総合保健福祉センター",
+        "notes": "3階管理室　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-3",
+      "category": "aed",
+      "name": "三原市保健福祉課（貸出用）",
+      "address": "広島県三原市港町3-5-1",
+      "lat": 34.397675,
+      "lng": 133.078121,
+      "detail": {
+        "facilityName": "三原市保健福祉課（貸出用）",
+        "notes": "保健福祉課（貸出用）　利用可能: 月火水木金 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-4",
+      "category": "aed",
+      "name": "港湾ビル待合所",
+      "address": "広島県三原市城町3-1-1",
+      "lat": 34.398076,
+      "lng": 133.082194,
+      "detail": {
+        "facilityName": "港湾ビル待合所",
+        "notes": "三原港湾ビル待合所　利用可能: 月火水木金土日 6:00〜23:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-5",
+      "category": "aed",
+      "name": "三原小学校",
+      "address": "広島県三原市館町2-3-1",
+      "lat": 34.403589,
+      "lng": 133.082833,
+      "detail": {
+        "facilityName": "三原小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-6",
+      "category": "aed",
+      "name": "芸術文化センターポポロ",
+      "address": "広島県三原市宮浦2-1-1",
+      "lat": 34.400967,
+      "lng": 133.068081,
+      "detail": {
+        "facilityName": "芸術文化センターポポロ",
+        "notes": "1階事務室前　利用可能: 月火水木金土日 9:00〜22:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-7",
+      "category": "aed",
+      "name": "宮浦中学校",
+      "address": "広島県三原市宮浦5-29-1",
+      "lat": 34.393699,
+      "lng": 133.057531,
+      "detail": {
+        "facilityName": "宮浦中学校",
+        "notes": "1階校長室前"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-8",
+      "category": "aed",
+      "name": "宮浦コミュニティセンター",
+      "address": "広島県三原市宮浦6-9-22",
+      "lat": 34.394207,
+      "lng": 133.062328,
+      "detail": {
+        "facilityName": "宮浦コミュニティセンター",
+        "notes": "1階事務室前　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-9",
+      "category": "aed",
+      "name": "第三中学校",
+      "address": "広島県三原市宮沖3-15-2",
+      "lat": 34.39424,
+      "lng": 133.072431,
+      "detail": {
+        "facilityName": "第三中学校",
+        "notes": "1階事務室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-10",
+      "category": "aed",
+      "name": "南幼稚園",
+      "address": "広島県三原市宮沖2-14-17",
+      "lat": 34.397584,
+      "lng": 133.072275,
+      "detail": {
+        "facilityName": "南幼稚園",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-11",
+      "category": "aed",
+      "name": "消防本部(貸出し用）",
+      "address": "広島県三原市宮浦1-22-2",
+      "lat": 34.401983,
+      "lng": 133.066979,
+      "detail": {
+        "facilityName": "消防本部(貸出し用）",
+        "notes": "消防署１階事務室　利用可能: 月火水木金土日 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-12",
+      "category": "aed",
+      "name": "中央公民館",
+      "address": "広島県三原市円一町2-3-1",
+      "lat": 34.39519,
+      "lng": 133.078074,
+      "detail": {
+        "facilityName": "中央公民館",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-13",
+      "category": "aed",
+      "name": "南小学校",
+      "address": "広島県三原市円一町2-7-2",
+      "lat": 34.395419,
+      "lng": 133.077201,
+      "detail": {
+        "facilityName": "南小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-14",
+      "category": "aed",
+      "name": "円一保育所",
+      "address": "広島県三原市円一町2-7-3",
+      "lat": 34.394532,
+      "lng": 133.076811,
+      "detail": {
+        "facilityName": "円一保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-15",
+      "category": "aed",
+      "name": "三原リージョンプラザ",
+      "address": "広島県三原市円一町2-1-1",
+      "lat": 34.39629,
+      "lng": 133.077518,
+      "detail": {
+        "facilityName": "三原リージョンプラザ",
+        "notes": "受付事務所　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-16",
+      "category": "aed",
+      "name": "武道館",
+      "address": "広島県三原市円一町2-7-1",
+      "lat": 34.395738,
+      "lng": 133.077554,
+      "detail": {
+        "facilityName": "武道館",
+        "notes": "館内東側壁掛け　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-17",
+      "category": "aed",
+      "name": "糸崎保育所",
+      "address": "広島県三原市糸崎3-5-1",
+      "lat": 34.395887,
+      "lng": 133.102492,
+      "detail": {
+        "facilityName": "糸崎保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-18",
+      "category": "aed",
+      "name": "道の駅みはら神明の里",
+      "address": "広島県三原市糸崎4-21-1",
+      "lat": 34.396825,
+      "lng": 133.103847,
+      "detail": {
+        "facilityName": "道の駅みはら神明の里",
+        "notes": "レストラン入口"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-19",
+      "category": "aed",
+      "name": "糸崎コミュニティセンター",
+      "address": "広島県三原市糸崎5-10-7",
+      "lat": 34.393444,
+      "lng": 133.107606,
+      "detail": {
+        "facilityName": "糸崎コミュニティセンター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-20",
+      "category": "aed",
+      "name": "糸崎小学校",
+      "address": "広島県三原市糸崎町5-3-1",
+      "lat": 34.391335,
+      "lng": 133.109252,
+      "detail": {
+        "facilityName": "糸崎小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-21",
+      "category": "aed",
+      "name": "第一中学校",
+      "address": "広島県三原市糸崎5-7-1",
+      "lat": 34.392781,
+      "lng": 133.10871,
+      "detail": {
+        "facilityName": "第一中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-22",
+      "category": "aed",
+      "name": "木原小学校",
+      "address": "広島県三原市木原3-2-20",
+      "lat": 34.392687,
+      "lng": 133.141275,
+      "detail": {
+        "facilityName": "木原小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-23",
+      "category": "aed",
+      "name": "木原町コミュニティホーム",
+      "address": "広島県三原市木原4-12-1",
+      "lat": 34.39257,
+      "lng": 133.147311,
+      "detail": {
+        "facilityName": "木原町コミュニティホーム",
+        "notes": "1階玄関壁付け"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-24",
+      "category": "aed",
+      "name": "深町コミュニティホーム",
+      "address": "広島県三原市深町1565-2",
+      "lat": 34.431338,
+      "lng": 133.136973,
+      "detail": {
+        "facilityName": "深町コミュニティホーム",
+        "notes": "1階玄関電話台上"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-25",
+      "category": "aed",
+      "name": "深小学校",
+      "address": "広島県三原市深町1589",
+      "lat": 34.431413,
+      "lng": 133.136041,
+      "detail": {
+        "facilityName": "深小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-26",
+      "category": "aed",
+      "name": "三原市斎場",
+      "address": "広島県三原市高坂町許山10581",
+      "lat": 34.469151,
+      "lng": 133.027918,
+      "detail": {
+        "facilityName": "三原市斎場",
+        "notes": "受付事務所　利用可能:  8:30〜17:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-27",
+      "category": "aed",
+      "name": "旧八幡小学校（体育館）",
+      "address": "広島県三原市八幡町宮内277",
+      "lat": 34.475281,
+      "lng": 133.084284,
+      "detail": {
+        "facilityName": "旧八幡小学校（体育館）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-28",
+      "category": "aed",
+      "name": "中之町保育所",
+      "address": "広島県三原市中之町1-4-12",
+      "lat": 34.407083,
+      "lng": 133.090819,
+      "detail": {
+        "facilityName": "中之町保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-29",
+      "category": "aed",
+      "name": "第二中学校",
+      "address": "広島県三原市中之町2-14-1",
+      "lat": 34.410003,
+      "lng": 133.096482,
+      "detail": {
+        "facilityName": "第二中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-30",
+      "category": "aed",
+      "name": "中之町コミュニティセンター",
+      "address": "広島県三原市中之町2-2-1",
+      "lat": 34.407953,
+      "lng": 133.094906,
+      "detail": {
+        "facilityName": "中之町コミュニティセンター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-31",
+      "category": "aed",
+      "name": "中之町小学校",
+      "address": "広島県三原市中之町6-4-1",
+      "lat": 34.418972,
+      "lng": 133.10727,
+      "detail": {
+        "facilityName": "中之町小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-32",
+      "category": "aed",
+      "name": "西小学校",
+      "address": "広島県三原市西宮2-7-1",
+      "lat": 34.404957,
+      "lng": 133.066082,
+      "detail": {
+        "facilityName": "西小学校",
+        "notes": "1階放送室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-33",
+      "category": "aed",
+      "name": "沼田小学校",
+      "address": "広島県三原市沼田2-1-32",
+      "lat": 34.402668,
+      "lng": 133.041976,
+      "detail": {
+        "facilityName": "沼田小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-34",
+      "category": "aed",
+      "name": "沼北小学校",
+      "address": "広島県三原市小坂町3515",
+      "lat": 34.413422,
+      "lng": 133.01844,
+      "detail": {
+        "facilityName": "沼北小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-35",
+      "category": "aed",
+      "name": "長谷保育所",
+      "address": "広島県三原市長谷1-5-21",
+      "lat": 34.39705,
+      "lng": 133.032083,
+      "detail": {
+        "facilityName": "長谷保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-36",
+      "category": "aed",
+      "name": "三原市人権文化センター",
+      "address": "広島県三原市長谷1-6-1",
+      "lat": 34.397483,
+      "lng": 133.03232,
+      "detail": {
+        "facilityName": "三原市人権文化センター",
+        "notes": "1階玄関ホール　利用可能: 月火水木金 8:30〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-37",
+      "category": "aed",
+      "name": "高坂保育所",
+      "address": "広島県三原市高坂町真良2153",
+      "lat": 34.435692,
+      "lng": 133.000102,
+      "detail": {
+        "facilityName": "高坂保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-38",
+      "category": "aed",
+      "name": "旧高坂小学校（体育館）",
+      "address": "広島県三原市高坂町真良1813-1",
+      "lat": 34.435611,
+      "lng": 132.999992,
+      "detail": {
+        "facilityName": "旧高坂小学校（体育館）",
+        "notes": "高坂コミュニティホーム入り口　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-39",
+      "category": "aed",
+      "name": "沼田西小学校",
+      "address": "広島県三原市沼田西町松江1508",
+      "lat": 34.394474,
+      "lng": 132.983953,
+      "detail": {
+        "facilityName": "沼田西小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-40",
+      "category": "aed",
+      "name": "小泉小学校",
+      "address": "広島県三原市小泉町4840-1",
+      "lat": 34.369036,
+      "lng": 132.989172,
+      "detail": {
+        "facilityName": "小泉小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-41",
+      "category": "aed",
+      "name": "沼田東小学校",
+      "address": "広島県三原市沼田東町片島273",
+      "lat": 34.389774,
+      "lng": 133.020428,
+      "detail": {
+        "facilityName": "沼田東小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-42",
+      "category": "aed",
+      "name": "第五中学校",
+      "address": "広島県三原市沼田東町片島532",
+      "lat": 34.38891,
+      "lng": 133.022874,
+      "detail": {
+        "facilityName": "第五中学校",
+        "notes": "1階事務室前廊下"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-43",
+      "category": "aed",
+      "name": "沼田東コミュニティセンター",
+      "address": "広島県三原市沼田東町片島716",
+      "lat": 34.384576,
+      "lng": 133.021698,
+      "detail": {
+        "facilityName": "沼田東コミュニティセンター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-44",
+      "category": "aed",
+      "name": "やまみ三原運動公園",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.379348,
+      "lng": 133.009886,
+      "detail": {
+        "facilityName": "やまみ三原運動公園",
+        "notes": "受付事務所　利用可能: 月火水木金土日 6:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-45",
+      "category": "aed",
+      "name": "幸崎小学校",
+      "address": "広島県三原市幸崎能地3-16-2",
+      "lat": 34.339454,
+      "lng": 133.036294,
+      "detail": {
+        "facilityName": "幸崎小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-46",
+      "category": "aed",
+      "name": "地域学習センター（さざなみ学校）",
+      "address": "広島県三原市幸崎久和喜3-18",
+      "lat": 34.344586,
+      "lng": 133.068526,
+      "detail": {
+        "facilityName": "地域学習センター（さざなみ学校）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜17:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-47",
+      "category": "aed",
+      "name": "幸崎コミュニティセンター",
+      "address": "広島県三原市幸崎能地3-8-13",
+      "lat": 34.337742,
+      "lng": 133.037601,
+      "detail": {
+        "facilityName": "幸崎コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-48",
+      "category": "aed",
+      "name": "幸崎保育所",
+      "address": "広島県三原市幸崎能地3-14-1",
+      "lat": 34.339789,
+      "lng": 133.037427,
+      "detail": {
+        "facilityName": "幸崎保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-49",
+      "category": "aed",
+      "name": "幸崎中学校",
+      "address": "広島県三原市幸崎能地3-16-1",
+      "lat": 34.338795,
+      "lng": 133.036733,
+      "detail": {
+        "facilityName": "幸崎中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-50",
+      "category": "aed",
+      "name": "須波港待合所",
+      "address": "広島県三原市須波西1-2-1",
+      "lat": 34.360109,
+      "lng": 133.083323,
+      "detail": {
+        "facilityName": "須波港待合所",
+        "notes": "須波港待合所　利用可能: 月火水木金土日 7:00〜20:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-51",
+      "category": "aed",
+      "name": "すなみ海浜公園",
+      "address": "広島県三原市須波西1-7",
+      "lat": 34.351711,
+      "lng": 133.081663,
+      "detail": {
+        "facilityName": "すなみ海浜公園",
+        "notes": "北ビーチトイレ前"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-52",
+      "category": "aed",
+      "name": "すなみ海浜公園",
+      "address": "広島県三原市須波西1-7",
+      "lat": 34.349623,
+      "lng": 133.081109,
+      "detail": {
+        "facilityName": "すなみ海浜公園",
+        "notes": "南ビーチトイレ前"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-53",
+      "category": "aed",
+      "name": "須波コミュニティセンター",
+      "address": "広島県三原市須波1-22-2",
+      "lat": 34.370421,
+      "lng": 133.085405,
+      "detail": {
+        "facilityName": "須波コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-54",
+      "category": "aed",
+      "name": "須波小学校",
+      "address": "広島県三原市須波1-22-1",
+      "lat": 34.365215,
+      "lng": 133.083369,
+      "detail": {
+        "facilityName": "須波小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-55",
+      "category": "aed",
+      "name": "第四中学校",
+      "address": "広島県三原市須波ハイツ2-26-1",
+      "lat": 34.353789,
+      "lng": 133.078531,
+      "detail": {
+        "facilityName": "第四中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-56",
+      "category": "aed",
+      "name": "田野浦小学校",
+      "address": "広島県三原市宗郷1-10-1",
+      "lat": 34.386466,
+      "lng": 133.062917,
+      "detail": {
+        "facilityName": "田野浦小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-57",
+      "category": "aed",
+      "name": "田野浦幼稚園",
+      "address": "広島県三原市宗郷3-5-1",
+      "lat": 34.387122,
+      "lng": 133.061164,
+      "detail": {
+        "facilityName": "田野浦幼稚園",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-58",
+      "category": "aed",
+      "name": "佐木港待合所",
+      "address": "広島県三原市鷺浦町須波811-16",
+      "lat": 34.357221,
+      "lng": 133.118125,
+      "detail": {
+        "facilityName": "佐木港待合所",
+        "notes": "佐木港待合所　利用可能: 月火水木金土日 5:30〜18:45"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-59",
+      "category": "aed",
+      "name": "鷺浦小学校",
+      "address": "広島県三原市鷺浦町須波2189",
+      "lat": 34.353313,
+      "lng": 133.117542,
+      "detail": {
+        "facilityName": "鷺浦小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-60",
+      "category": "aed",
+      "name": "小佐木港待合所",
+      "address": "広島県三原市鷺浦町須波",
+      "lat": 34.362471,
+      "lng": 133.106284,
+      "detail": {
+        "facilityName": "小佐木港待合所",
+        "notes": "小佐木港待合所"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-61",
+      "category": "aed",
+      "name": "三原市宇根山家族旅行村",
+      "address": "広島県三原市久井町吉田10385番地4",
+      "lat": 34.548749,
+      "lng": 133.071874,
+      "detail": {
+        "facilityName": "三原市宇根山家族旅行村",
+        "notes": "管理棟　利用可能: 月火水木金土日 9:00〜16:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-62",
+      "category": "aed",
+      "name": "鷺浦コミュニティセンター",
+      "address": "広島県三原市鷺浦町向田野浦675-4",
+      "lat": 34.329427,
+      "lng": 133.100758,
+      "detail": {
+        "facilityName": "鷺浦コミュニティセンター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-63",
+      "category": "aed",
+      "name": "本郷保健福祉センター",
+      "address": "広島県三原市本郷南5-23-1",
+      "lat": 34.407498,
+      "lng": 132.989297,
+      "detail": {
+        "facilityName": "本郷保健福祉センター",
+        "notes": "1階事務室　利用可能: 月火水木金 9:00〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-64",
+      "category": "aed",
+      "name": "本郷保育所",
+      "address": "広島県三原市本郷南5-8-1",
+      "lat": 34.406893,
+      "lng": 132.988686,
+      "detail": {
+        "facilityName": "本郷保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:00〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-65",
+      "category": "aed",
+      "name": "本郷幼稚園",
+      "address": "広島県三原市本郷南5-8-1",
+      "lat": 34.406862,
+      "lng": 132.989181,
+      "detail": {
+        "facilityName": "本郷幼稚園",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-66",
+      "category": "aed",
+      "name": "本郷支所",
+      "address": "広島県三原市本郷南6-3-10",
+      "lat": 34.407239,
+      "lng": 132.985806,
+      "detail": {
+        "facilityName": "本郷支所",
+        "notes": "1階玄関ロビー　利用可能: 月火水木金 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-67",
+      "category": "aed",
+      "name": "本郷生涯学習センター",
+      "address": "広島県三原市本郷南6-25-1",
+      "lat": 34.410608,
+      "lng": 132.983243,
+      "detail": {
+        "facilityName": "本郷生涯学習センター",
+        "notes": "1階エントランス　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-68",
+      "category": "aed",
+      "name": "本郷小学校",
+      "address": "広島県三原市本郷北3-15-1",
+      "lat": 34.411596,
+      "lng": 132.985759,
+      "detail": {
+        "facilityName": "本郷小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-69",
+      "category": "aed",
+      "name": "本郷人権文化センター",
+      "address": "広島県三原市本郷北3-16-10",
+      "lat": 34.411605,
+      "lng": 132.986573,
+      "detail": {
+        "facilityName": "本郷人権文化センター",
+        "notes": "1階玄関ホール　利用可能: 月火水木金 8:30〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-70",
+      "category": "aed",
+      "name": "本郷ひまわり保育所",
+      "address": "広島県三原市下北方1-8-1",
+      "lat": 34.405779,
+      "lng": 132.974484,
+      "detail": {
+        "facilityName": "本郷ひまわり保育所",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:00〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-71",
+      "category": "aed",
+      "name": "南方コミュニティセンター",
+      "address": "広島県三原市本郷町南方3985-1",
+      "lat": 34.395205,
+      "lng": 132.956828,
+      "detail": {
+        "facilityName": "南方コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-72",
+      "category": "aed",
+      "name": "本郷西小学校",
+      "address": "広島県三原市本郷町南方4003",
+      "lat": 34.395996,
+      "lng": 132.955629,
+      "detail": {
+        "facilityName": "本郷西小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-73",
+      "category": "aed",
+      "name": "本郷中学校",
+      "address": "広島県三原市下北方2-27-1",
+      "lat": 34.407407,
+      "lng": 132.967391,
+      "detail": {
+        "facilityName": "本郷中学校",
+        "notes": "玄関ホール"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-74",
+      "category": "aed",
+      "name": "旧北方小学校（体育館）",
+      "address": "広島県三原市本郷町上北方2922",
+      "lat": 34.412889,
+      "lng": 132.943495,
+      "detail": {
+        "facilityName": "旧北方小学校（体育館）",
+        "notes": "体育館"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-75",
+      "category": "aed",
+      "name": "北方グラウンド・ゴルフ場",
+      "address": "広島県三原市本郷町上北方1001-1",
+      "lat": 34.413849,
+      "lng": 132.942243,
+      "detail": {
+        "facilityName": "北方グラウンド・ゴルフ場",
+        "notes": "受付事務所　利用可能: 火水木金土日 9:00〜17:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-76",
+      "category": "aed",
+      "name": "北方コミュニティセンター",
+      "address": "広島県三原市本郷町上北方1023-1",
+      "lat": 34.413361,
+      "lng": 132.941845,
+      "detail": {
+        "facilityName": "北方コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-77",
+      "category": "aed",
+      "name": "善入寺健康増進施設",
+      "address": "広島県三原市本郷町善入寺545",
+      "lat": 34.42484,
+      "lng": 132.917318,
+      "detail": {
+        "facilityName": "善入寺健康増進施設",
+        "notes": "1階トレーニング室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-78",
+      "category": "aed",
+      "name": "旧船木小学校（体育館）",
+      "address": "広島県三原市本郷町船木1972",
+      "lat": 34.433155,
+      "lng": 132.966373,
+      "detail": {
+        "facilityName": "旧船木小学校（体育館）",
+        "notes": "玄関"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-79",
+      "category": "aed",
+      "name": "船木コミュニティセンター",
+      "address": "広島県三原市本郷町船木1949",
+      "lat": 34.431892,
+      "lng": 132.967585,
+      "detail": {
+        "facilityName": "船木コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-80",
+      "category": "aed",
+      "name": "久井支所",
+      "address": "広島県三原市久井町和草1906-1",
+      "lat": 34.518005,
+      "lng": 133.025809,
+      "detail": {
+        "facilityName": "久井支所",
+        "notes": "久井支所地域コーナー　利用可能: 月火水木金 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-81",
+      "category": "aed",
+      "name": "久井コミュニティセンター",
+      "address": "広島県三原市久井町下津1397",
+      "lat": 34.536265,
+      "lng": 133.035997,
+      "detail": {
+        "facilityName": "久井コミュニティセンター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-82",
+      "category": "aed",
+      "name": "くい文化センター",
+      "address": "広島県三原市久井町和草1883-6",
+      "lat": 34.517181,
+      "lng": 133.025954,
+      "detail": {
+        "facilityName": "くい文化センター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 8:30〜22:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-83",
+      "category": "aed",
+      "name": "旧久井小学校（体育館）",
+      "address": "広島県三原市久井町下津1397",
+      "lat": 34.535963,
+      "lng": 133.035506,
+      "detail": {
+        "facilityName": "旧久井小学校（体育館）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-84",
+      "category": "aed",
+      "name": "久井中学校",
+      "address": "広島県三原市久井町下津10735",
+      "lat": 34.5176,
+      "lng": 133.033938,
+      "detail": {
+        "facilityName": "久井中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-85",
+      "category": "aed",
+      "name": "久井小学校",
+      "address": "広島県三原市久井町下津10735",
+      "lat": 34.5176,
+      "lng": 133.033938,
+      "detail": {
+        "facilityName": "久井小学校",
+        "notes": "1階保健室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-86",
+      "category": "aed",
+      "name": "久井認定こども園",
+      "address": "広島県三原市久井町坂井原3024",
+      "lat": 34.488829,
+      "lng": 133.032479,
+      "detail": {
+        "facilityName": "久井認定こども園",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-87",
+      "category": "aed",
+      "name": "久井運動公園Ｂ＆Ｇ海洋センター",
+      "address": "広島県三原市久井町坂井原10409-3",
+      "lat": 34.504871,
+      "lng": 133.023531,
+      "detail": {
+        "facilityName": "久井運動公園Ｂ＆Ｇ海洋センター",
+        "notes": "受付事務所　利用可能: 月火水木金土日 9:00〜22:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-88",
+      "category": "aed",
+      "name": "旧久井南小学校（体育館）",
+      "address": "広島県三原市久井町坂井原3024",
+      "lat": 34.488443,
+      "lng": 133.032222,
+      "detail": {
+        "facilityName": "旧久井南小学校（体育館）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-89",
+      "category": "aed",
+      "name": "久井南コミュニティセンター",
+      "address": "広島県三原市久井町山中野1337",
+      "lat": 34.488298,
+      "lng": 133.010513,
+      "detail": {
+        "facilityName": "久井南コミュニティセンター",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:30"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-90",
+      "category": "aed",
+      "name": "大和支所",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541691,
+      "lng": 132.949012,
+      "detail": {
+        "facilityName": "大和支所",
+        "notes": "1階事務室前ロビー　利用可能: 月火水木金 8:30〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-91",
+      "category": "aed",
+      "name": "大和文化センター",
+      "address": "広島県三原市大和町下徳良111",
+      "lat": 34.541847,
+      "lng": 132.949427,
+      "detail": {
+        "facilityName": "大和文化センター",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 8:30〜22:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-92",
+      "category": "aed",
+      "name": "神田公民館",
+      "address": "広島県三原市大和町下徳良106-1",
+      "lat": 34.541465,
+      "lng": 132.950061,
+      "detail": {
+        "facilityName": "神田公民館",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-93",
+      "category": "aed",
+      "name": "大和認定こども園",
+      "address": "広島県三原市大和町下徳良697-2",
+      "lat": 34.538918,
+      "lng": 132.921821,
+      "detail": {
+        "facilityName": "大和認定こども園",
+        "notes": "1階事務室　利用可能: 月火水木金土 7:30〜18:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-94",
+      "category": "aed",
+      "name": "篠コミュニティホーム",
+      "address": "広島県三原市大和町篠524-1",
+      "lat": 34.578895,
+      "lng": 132.920417,
+      "detail": {
+        "facilityName": "篠コミュニティホーム",
+        "notes": "1階玄関下駄箱上"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-95",
+      "category": "aed",
+      "name": "蔵宗コミュニティホーム",
+      "address": "広島県三原市大和町蔵宗1244-2",
+      "lat": 34.564515,
+      "lng": 132.903345,
+      "detail": {
+        "facilityName": "蔵宗コミュニティホーム",
+        "notes": "1階玄関壁付け"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-96",
+      "category": "aed",
+      "name": "椹梨公民館",
+      "address": "広島県三原市大和町椋梨1004",
+      "lat": 34.528486,
+      "lng": 132.892517,
+      "detail": {
+        "facilityName": "椹梨公民館",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-97",
+      "category": "aed",
+      "name": "旧椹梨小学校（体育館）",
+      "address": "広島県三原市大和町椋梨2431",
+      "lat": 34.530156,
+      "lng": 132.89257,
+      "detail": {
+        "facilityName": "旧椹梨小学校（体育館）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-98",
+      "category": "aed",
+      "name": "大和保健福祉センター",
+      "address": "広島県三原市大和町和木1538-1",
+      "lat": 34.514182,
+      "lng": 132.921516,
+      "detail": {
+        "facilityName": "大和保健福祉センター",
+        "notes": "1階保健福祉課事務室横　利用可能: 月火水木金 9:00〜17:15"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-99",
+      "category": "aed",
+      "name": "和木公民館",
+      "address": "広島県三原市大和町和木1531-6",
+      "lat": 34.514007,
+      "lng": 132.921105,
+      "detail": {
+        "facilityName": "和木公民館",
+        "notes": "1階ロビー　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-100",
+      "category": "aed",
+      "name": "白竜湖スポーツ村公園白竜ドーム",
+      "address": "広島県三原市大和町和木1026-3",
+      "lat": 34.504868,
+      "lng": 132.91908,
+      "detail": {
+        "facilityName": "白竜湖スポーツ村公園白竜ドーム",
+        "notes": "受付事務所　利用可能: 月火水木金土日 8:00〜22:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-101",
+      "category": "aed",
+      "name": "道の駅よがんす白竜",
+      "address": "広島県三原市大和町和木652-3",
+      "lat": 34.506451,
+      "lng": 132.913946,
+      "detail": {
+        "facilityName": "道の駅よがんす白竜",
+        "notes": "レストラン入口　利用可能: 月火水木金土日 9:00〜17:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-102",
+      "category": "aed",
+      "name": "旧和木小学校（体育館）",
+      "address": "広島県三原市大和町和木2163-7",
+      "lat": 34.507254,
+      "lng": 132.925308,
+      "detail": {
+        "facilityName": "旧和木小学校（体育館）",
+        "notes": "体育館　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-103",
+      "category": "aed",
+      "name": "大和小学校",
+      "address": "広島県三原市大和町大具2362-1",
+      "lat": 34.535714,
+      "lng": 132.918026,
+      "detail": {
+        "facilityName": "大和小学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-104",
+      "category": "aed",
+      "name": "大和中学校",
+      "address": "広島県三原市大和町大具2280",
+      "lat": 34.533054,
+      "lng": 132.921171,
+      "detail": {
+        "facilityName": "大和中学校",
+        "notes": "1階職員室"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-105",
+      "category": "aed",
+      "name": "大草公民館",
+      "address": "広島県三原市大和町大草9131-2",
+      "lat": 34.500028,
+      "lng": 132.958711,
+      "detail": {
+        "facilityName": "大草公民館",
+        "notes": "1階玄関　利用可能: 月火水木金土日 9:00〜21:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "aed-106",
+      "category": "aed",
+      "name": "中央図書館",
+      "address": "広島県三原市城町1-3-1",
+      "lat": 34.399592,
+      "lng": 133.082789,
+      "detail": {
+        "facilityName": "中央図書館",
+        "notes": "1階エントランス　利用可能: 月火水木金土日 9:30〜20:00"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-1",
+      "category": "toilet",
+      "name": "米山寺公衆トイレ",
+      "address": "広島県三原市沼田東町納所460",
+      "lat": 34.376557,
+      "lng": 133.000213,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-2",
+      "category": "toilet",
+      "name": "筆影山中腹トイレ",
+      "address": "広島県三原市須波町",
+      "lat": 34.376571,
+      "lng": 133.07694,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-3",
+      "category": "toilet",
+      "name": "竜王山駐車場公衆トイレ",
+      "address": "広島県三原市沖浦町1316",
+      "lat": 34.367715,
+      "lng": 133.071494,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-4",
+      "category": "toilet",
+      "name": "御調八幡宮トイレ",
+      "address": "広島県三原市八幡町宮内7",
+      "lat": 34.471855,
+      "lng": 133.082672,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-5",
+      "category": "toilet",
+      "name": "棲眞寺公園トイレ",
+      "address": "広島県三原市大和町平坂2033",
+      "lat": 34.459331,
+      "lng": 132.942768,
+      "detail": {
+        "capacity": 4,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-6",
+      "category": "toilet",
+      "name": "塔の峰千本桜公衆トイレ",
+      "address": "広島県三原市鷺浦町向田野浦916-1",
+      "lat": 34.327333,
+      "lng": 133.104035,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-7",
+      "category": "toilet",
+      "name": "大平山登山道入口屋外トイレ",
+      "address": "広島県三原市鷺浦町須波184-3",
+      "lat": 34.342969,
+      "lng": 133.108364,
+      "detail": {
+        "capacity": 3,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-8",
+      "category": "toilet",
+      "name": "仏通寺第二駐車場トイレ",
+      "address": "広島県三原市高坂町許山30-1",
+      "lat": 34.453972,
+      "lng": 133.025089,
+      "detail": {
+        "capacity": 12,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-9",
+      "category": "toilet",
+      "name": "筆影山展望台公衆トイレ",
+      "address": "広島県三原市須波町",
+      "lat": 34.375961,
+      "lng": 133.081397,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-10",
+      "category": "toilet",
+      "name": "すなみ海浜公園北ビーチトイレ",
+      "address": "広島県三原市須波西1-7",
+      "lat": 34.351711,
+      "lng": 133.081663,
+      "detail": {
+        "capacity": 5,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-11",
+      "category": "toilet",
+      "name": "すなみ海浜公園南ビーチトイレ",
+      "address": "広島県三原市須波西1-7",
+      "lat": 34.349623,
+      "lng": 133.081109,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-12",
+      "category": "toilet",
+      "name": "道の駅よがんす白竜トイレ",
+      "address": "広島県三原市大和町和木652-3",
+      "lat": 34.506451,
+      "lng": 132.913946,
+      "detail": {
+        "capacity": 10,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-13",
+      "category": "toilet",
+      "name": "道の駅みはら神明の里トイレ",
+      "address": "広島県三原市糸崎4-21-1",
+      "lat": 34.396825,
+      "lng": 133.103847,
+      "detail": {
+        "capacity": 36,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-14",
+      "category": "toilet",
+      "name": "やまみ三原運動公園トイレ",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.381198,
+      "lng": 133.012797,
+      "detail": {
+        "capacity": 176,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-15",
+      "category": "toilet",
+      "name": "三原リージョンプラザトイレ",
+      "address": "広島県三原市円一町2-1-1",
+      "lat": 34.39629,
+      "lng": 133.077518,
+      "detail": {
+        "capacity": 106,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-16",
+      "category": "toilet",
+      "name": "武道館トイレ",
+      "address": "広島県三原市円一町2-7-1",
+      "lat": 34.395738,
+      "lng": 133.077554,
+      "detail": {
+        "capacity": 9,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-17",
+      "category": "toilet",
+      "name": "白竜湖スポーツ村公園白竜ドームトイレ",
+      "address": "広島県三原市大和町和木1026-3",
+      "lat": 34.504868,
+      "lng": 132.91908,
+      "detail": {
+        "capacity": 14,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-18",
+      "category": "toilet",
+      "name": "久井運動公園B&G海洋センター体育館トイレ",
+      "address": "広島県三原市久井町坂井原10409-3",
+      "lat": 34.504871,
+      "lng": 133.023531,
+      "detail": {
+        "capacity": 7,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-19",
+      "category": "toilet",
+      "name": "北方グラウンド・ゴルフ場トイレ",
+      "address": "広島県三原市本郷町上北方1001-1",
+      "lat": 34.413849,
+      "lng": 132.942243,
+      "detail": {
+        "capacity": 10,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-20",
+      "category": "toilet",
+      "name": "やまみ三原運動公園トイレ_1",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.379148,
+      "lng": 133.013343,
+      "detail": {
+        "capacity": 13,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-21",
+      "category": "toilet",
+      "name": "やまみ三原運動公園トイレ_2",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.37885,
+      "lng": 133.011532,
+      "detail": {
+        "capacity": 13,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-22",
+      "category": "toilet",
+      "name": "やまみ三原運動公園トイレ_3",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.380853,
+      "lng": 133.01113,
+      "detail": {
+        "capacity": 7,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-23",
+      "category": "toilet",
+      "name": "やまみ三原運動公園トイレ_4",
+      "address": "広島県三原市沼田東町釜山10253-1",
+      "lat": 34.381152,
+      "lng": 133.012768,
+      "detail": {
+        "capacity": 8,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-24",
+      "category": "toilet",
+      "name": "宮浦公園トイレ_1",
+      "address": "広島県三原市宮浦2-1",
+      "lat": 34.401273,
+      "lng": 133.067775,
+      "detail": {
+        "capacity": 8,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-25",
+      "category": "toilet",
+      "name": "宮浦公園トイレ_2",
+      "address": "広島県三原市宮浦2-1",
+      "lat": 34.401802,
+      "lng": 133.069783,
+      "detail": {
+        "capacity": 7,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-26",
+      "category": "toilet",
+      "name": "古浜北公園トイレ",
+      "address": "広島県三原市古浜1-16",
+      "lat": 34.398327,
+      "lng": 133.09309,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-27",
+      "category": "toilet",
+      "name": "皆実東公園トイレ",
+      "address": "広島県三原市皆実4-10",
+      "lat": 34.393382,
+      "lng": 133.07042,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-28",
+      "category": "toilet",
+      "name": "皆実西公園トイレ",
+      "address": "広島県三原市皆実3-5",
+      "lat": 34.391913,
+      "lng": 133.065413,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-29",
+      "category": "toilet",
+      "name": "和田公園トイレ",
+      "address": "広島県三原市和田2-22",
+      "lat": 34.382963,
+      "lng": 133.076292,
+      "detail": {
+        "capacity": 0,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-30",
+      "category": "toilet",
+      "name": "江南中公園トイレ",
+      "address": "広島県三原市和田3-1",
+      "lat": 34.385197,
+      "lng": 133.071612,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-31",
+      "category": "toilet",
+      "name": "江南東公園トイレ",
+      "address": "広島県三原市和田2-1",
+      "lat": 34.385247,
+      "lng": 133.073212,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-32",
+      "category": "toilet",
+      "name": "江南西公園トイレ",
+      "address": "広島県三原市宗郷2-6",
+      "lat": 34.385168,
+      "lng": 133.065987,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-33",
+      "category": "toilet",
+      "name": "江南北公園トイレ",
+      "address": "広島県三原市和田1-12",
+      "lat": 34.387105,
+      "lng": 133.067157,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-34",
+      "category": "toilet",
+      "name": "城町公園トイレ",
+      "address": "広島県三原市城町1-17",
+      "lat": 34.398553,
+      "lng": 133.085194,
+      "detail": {
+        "capacity": 4,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-35",
+      "category": "toilet",
+      "name": "皆実第一公園トイレ",
+      "address": "広島県三原市皆実2-9",
+      "lat": 34.391577,
+      "lng": 133.060802,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-36",
+      "category": "toilet",
+      "name": "皆実第二公園トイレ",
+      "address": "広島県三原市皆実1-17",
+      "lat": 34.395983,
+      "lng": 133.068205,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-37",
+      "category": "toilet",
+      "name": "皆実第三公園トイレ",
+      "address": "広島県三原市皆実1-1",
+      "lat": 34.39943,
+      "lng": 133.073153,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-38",
+      "category": "toilet",
+      "name": "七宝公園トイレ",
+      "address": "広島県三原市沼田東町七宝256",
+      "lat": 34.391565,
+      "lng": 133.03759,
+      "detail": {
+        "capacity": 2,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-39",
+      "category": "toilet",
+      "name": "西宮公園トイレ",
+      "address": "広島県三原市西宮1-1",
+      "lat": 34.403505,
+      "lng": 133.070642,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-40",
+      "category": "toilet",
+      "name": "堀川公園トイレ",
+      "address": "広島県三原市本町2-15",
+      "lat": 34.40567,
+      "lng": 133.082613,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-41",
+      "category": "toilet",
+      "name": "宗郷第一公園トイレ",
+      "address": "広島県三原市宗郷4-12",
+      "lat": 34.383195,
+      "lng": 133.061898,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-42",
+      "category": "toilet",
+      "name": "宗郷第二公園トイレ",
+      "address": "広島県三原市宗郷4-5",
+      "lat": 34.384148,
+      "lng": 133.057618,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-43",
+      "category": "toilet",
+      "name": "明神南公園トイレ",
+      "address": "広島県三原市明神1-7",
+      "lat": 34.385852,
+      "lng": 133.054832,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-44",
+      "category": "toilet",
+      "name": "頼兼公園トイレ",
+      "address": "広島県三原市頼兼2-6",
+      "lat": 34.396457,
+      "lng": 133.058098,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-45",
+      "category": "toilet",
+      "name": "西町公園トイレ",
+      "address": "広島県三原市西町2-3",
+      "lat": 34.402577,
+      "lng": 133.07427,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-46",
+      "category": "toilet",
+      "name": "円一南公園トイレ",
+      "address": "広島県三原市円一町4-2",
+      "lat": 34.390747,
+      "lng": 133.07635,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-47",
+      "category": "toilet",
+      "name": "糸崎第一公園トイレ",
+      "address": "広島県三原市糸崎1-22",
+      "lat": 34.399297,
+      "lng": 133.099938,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-48",
+      "category": "toilet",
+      "name": "宮浦第一公園トイレ",
+      "address": "広島県三原市宮浦3-26",
+      "lat": 34.397793,
+      "lng": 133.067358,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-49",
+      "category": "toilet",
+      "name": "宮浦第二公園トイレ",
+      "address": "広島県三原市宮浦4-7",
+      "lat": 34.399275,
+      "lng": 133.06532,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-50",
+      "category": "toilet",
+      "name": "宮浦第三公園トイレ",
+      "address": "広島県三原市宮浦6-9",
+      "lat": 34.393862,
+      "lng": 133.062193,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-51",
+      "category": "toilet",
+      "name": "糸崎第二公園トイレ",
+      "address": "広島県三原市糸崎4-8",
+      "lat": 34.393762,
+      "lng": 133.104702,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-52",
+      "category": "toilet",
+      "name": "中之町第一公園トイレ",
+      "address": "広島県三原市中之町3-1",
+      "lat": 34.410865,
+      "lng": 133.108333,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-53",
+      "category": "toilet",
+      "name": "中之町第二公園トイレ",
+      "address": "広島県三原市中之町9-1",
+      "lat": 34.418975,
+      "lng": 133.11152,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-54",
+      "category": "toilet",
+      "name": "本町中央公園トイレ",
+      "address": "広島県三原市本町3-3",
+      "lat": 34.402833,
+      "lng": 133.079783,
+      "detail": {
+        "capacity": 0,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-55",
+      "category": "toilet",
+      "name": "宮浦第四公園トイレ",
+      "address": "広島県三原市宮浦5-14",
+      "lat": 34.395802,
+      "lng": 133.060568,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-56",
+      "category": "toilet",
+      "name": "宮浦第五公園トイレ",
+      "address": "広島県三原市宮浦1-12",
+      "lat": 34.400387,
+      "lng": 133.061582,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-57",
+      "category": "toilet",
+      "name": "大西公園トイレ",
+      "address": "広島県三原市西野2-2",
+      "lat": 34.404448,
+      "lng": 133.059642,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-58",
+      "category": "toilet",
+      "name": "円一東公園トイレ",
+      "address": "広島県三原市円一町5-4",
+      "lat": 34.389937,
+      "lng": 133.078805,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-59",
+      "category": "toilet",
+      "name": "皆実第四公園トイレ",
+      "address": "広島県三原市皆実5-1",
+      "lat": 34.391107,
+      "lng": 133.071067,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-60",
+      "category": "toilet",
+      "name": "小浦公園トイレ",
+      "address": "広島県三原市西宮2-11",
+      "lat": 34.40643,
+      "lng": 133.066857,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-61",
+      "category": "toilet",
+      "name": "皆実第五公園トイレ",
+      "address": "広島県三原市皆実6-14",
+      "lat": 34.389747,
+      "lng": 133.06273,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-62",
+      "category": "toilet",
+      "name": "西野公園トイレ",
+      "address": "広島県三原市西野3-12",
+      "lat": 34.407518,
+      "lng": 133.056463,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-63",
+      "category": "toilet",
+      "name": "西町第二公園トイレ",
+      "address": "広島県三原市西町2-8",
+      "lat": 34.404348,
+      "lng": 133.07161,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-64",
+      "category": "toilet",
+      "name": "港町公園トイレ",
+      "address": "広島県三原市港町1-10",
+      "lat": 34.399618,
+      "lng": 133.079328,
+      "detail": {
+        "capacity": 2,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-65",
+      "category": "toilet",
+      "name": "中之町第三公園トイレ",
+      "address": "広島県三原市中之町5-3",
+      "lat": 34.417225,
+      "lng": 133.106555,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-66",
+      "category": "toilet",
+      "name": "古城通公園トイレ",
+      "address": "広島県三原市糸崎3-1",
+      "lat": 34.395922,
+      "lng": 133.099605,
+      "detail": {
+        "capacity": 5,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-67",
+      "category": "toilet",
+      "name": "東町第一公園トイレ",
+      "address": "広島県三原市東町2-5",
+      "lat": 34.402195,
+      "lng": 133.090557,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-68",
+      "category": "toilet",
+      "name": "明神第一公園トイレ",
+      "address": "広島県三原市明神2-8",
+      "lat": 34.385618,
+      "lng": 133.052488,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-69",
+      "category": "toilet",
+      "name": "明神第二公園トイレ",
+      "address": "広島県三原市明神4-4",
+      "lat": 34.388705,
+      "lng": 133.050258,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-70",
+      "category": "toilet",
+      "name": "田野浦第一公園トイレ",
+      "address": "広島県三原市田野浦2-11",
+      "lat": 34.37992,
+      "lng": 133.042733,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-71",
+      "category": "toilet",
+      "name": "田野浦第二公園トイレ",
+      "address": "広島県三原市田野浦2-3",
+      "lat": 34.382543,
+      "lng": 133.04729,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-72",
+      "category": "toilet",
+      "name": "青葉台第二公園トイレ",
+      "address": "広島県三原市青葉台8",
+      "lat": 34.38073,
+      "lng": 133.040688,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-73",
+      "category": "toilet",
+      "name": "青葉台第三公園トイレ",
+      "address": "広島県三原市青葉台13",
+      "lat": 34.379625,
+      "lng": 133.039223,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-74",
+      "category": "toilet",
+      "name": "西部団地第一公園トイレ",
+      "address": "広島県三原市沼田西町惣定10066-168",
+      "lat": 34.385203,
+      "lng": 132.989048,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-75",
+      "category": "toilet",
+      "name": "本郷第１街区公園トイレ",
+      "address": "広島県三原市本郷北3-17",
+      "lat": 34.411503,
+      "lng": 132.987595,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-76",
+      "category": "toilet",
+      "name": "本郷第２街区公園トイレ",
+      "address": "広島県三原市本郷南1-5",
+      "lat": 34.407748,
+      "lng": 133.011077,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-77",
+      "category": "toilet",
+      "name": "本郷第５街区公園トイレ",
+      "address": "広島県三原市本郷南4-6",
+      "lat": 34.404878,
+      "lng": 132.998673,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-78",
+      "category": "toilet",
+      "name": "東本通３号公園トイレ",
+      "address": "広島県三原市本郷南4",
+      "lat": 34.405362,
+      "lng": 132.99191,
+      "detail": {
+        "capacity": 2,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-79",
+      "category": "toilet",
+      "name": "東本通４号公園トイレ",
+      "address": "広島県三原市本郷南4-13",
+      "lat": 34.40263,
+      "lng": 132.995582,
+      "detail": {
+        "capacity": 2,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-80",
+      "category": "toilet",
+      "name": "東本通７号公園トイレ",
+      "address": "広島県三原市本郷南3-18",
+      "lat": 34.406988,
+      "lng": 132.99621,
+      "detail": {
+        "capacity": 2,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-81",
+      "category": "toilet",
+      "name": "本郷総合公園トイレ",
+      "address": "広島県三原市本郷町下北方157-4",
+      "lat": 34.405302,
+      "lng": 132.975877,
+      "detail": {
+        "capacity": 6,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-82",
+      "category": "toilet",
+      "name": "中央公園トイレ_1",
+      "address": "広島県三原市本町3-3",
+      "lat": 34.406015,
+      "lng": 133.08014,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-83",
+      "category": "toilet",
+      "name": "中央公園トイレ_2",
+      "address": "広島県三原市本町3-3",
+      "lat": 34.405973,
+      "lng": 133.080173,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-84",
+      "category": "toilet",
+      "name": "小原第三公園トイレ",
+      "address": "広島県三原市沼田西町小原10073-67",
+      "lat": 34.390183,
+      "lng": 132.98866,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-85",
+      "category": "toilet",
+      "name": "本谷川公園トイレ",
+      "address": "広島県三原市明神1-18",
+      "lat": 34.384567,
+      "lng": 133.051798,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-86",
+      "category": "toilet",
+      "name": "惣定第一公園トイレ",
+      "address": "広島県三原市沼田西町惣定10247-65",
+      "lat": 34.381568,
+      "lng": 132.979578,
+      "detail": {
+        "capacity": 0,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-87",
+      "category": "toilet",
+      "name": "西部団地第二公園トイレ",
+      "address": "広島県三原市沼田西町惣定10069-10",
+      "lat": 34.386552,
+      "lng": 132.986632,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-88",
+      "category": "toilet",
+      "name": "小泉第三公園トイレ",
+      "address": "広島県三原市小泉町10160-10",
+      "lat": 34.373995,
+      "lng": 132.977482,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-89",
+      "category": "toilet",
+      "name": "本郷第３街区公園トイレ",
+      "address": "広島県三原市本郷北4-11",
+      "lat": 34.414613,
+      "lng": 132.984883,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-90",
+      "category": "toilet",
+      "name": "新倉第三公園トイレ",
+      "address": "広島県三原市新倉2-3",
+      "lat": 34.396205,
+      "lng": 133.048135,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-91",
+      "category": "toilet",
+      "name": "新倉第一公園トイレ",
+      "address": "広島県三原市新倉3-2",
+      "lat": 34.39598,
+      "lng": 133.045738,
+      "detail": {
+        "capacity": 2,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-92",
+      "category": "toilet",
+      "name": "中之町上子供公園トイレ",
+      "address": "広島県三原市中之町9-23",
+      "lat": 34.425292,
+      "lng": 133.112002,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-93",
+      "category": "toilet",
+      "name": "光谷公園トイレ",
+      "address": "広島県三原市中之町3-39",
+      "lat": 34.419685,
+      "lng": 133.093132,
+      "detail": {
+        "capacity": 1,
+        "notes": "車椅子対応あり"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-94",
+      "category": "toilet",
+      "name": "中之町バイパス北公園トイレ",
+      "address": "三原市中之町4142-1",
+      "lat": 34.40624,
+      "lng": 133.087996,
+      "detail": {
+        "capacity": 1,
+        "notes": "公衆トイレ"
+      },
+      "updatedAt": "2026-08-21"
+    },
+    {
+      "id": "toilet-95",
+      "category": "toilet",
+      "name": "船木防災公園トイレ",
+      "address": "三原市本郷町船木5200-18",
+      "lat": 34.436205,
+      "lng": 132.983494,
+      "detail": {
+        "capacity": 4,
+        "notes": "車椅子対応あり　乳幼児設備あり"
+      },
+      "updatedAt": "2026-08-21"
+    }
+  ],
+  "skipped": [],
+  "generatedAt": "2026-08-21",
+  "source": "三原市オープンデータカタログ / 国土地理院 指定緊急避難場所・指定避難所データ (CC BY 4.0)"
+}
