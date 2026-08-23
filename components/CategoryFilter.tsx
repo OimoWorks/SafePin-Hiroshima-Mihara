@@ -2,12 +2,17 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { PinCategory, CATEGORIES } from '@/lib/types'
+import { DUMMY_PINS } from '@/lib/pins'
 import { trackEvent } from '@/lib/analytics'
 
 type Props = {
   activeCategories: Set<PinCategory>
   onToggle: (category: PinCategory) => void
 }
+
+// データが1件も存在しないカテゴリはフィルターに表示しない
+// (例: 三原市版では給水ポイントデータが未整備のため非表示になる)
+const CATEGORIES_WITH_DATA = new Set(DUMMY_PINS.map((p) => p.category))
 
 export default function CategoryFilter({ activeCategories, onToggle }: Props) {
   const [open, setOpen] = useState(false)
@@ -55,7 +60,9 @@ export default function CategoryFilter({ activeCategories, onToggle }: Props) {
           open ? 'opacity-100 scale-y-100' : 'opacity-0 scale-y-0 pointer-events-none'
         }`}
       >
-        {(Object.entries(CATEGORIES) as [PinCategory, typeof CATEGORIES[PinCategory]][]).map(([key, cat]) => {
+        {(Object.entries(CATEGORIES) as [PinCategory, typeof CATEGORIES[PinCategory]][])
+          .filter(([key]) => CATEGORIES_WITH_DATA.has(key))
+          .map(([key, cat]) => {
           const isActive = activeCategories.has(key)
           return (
             <button
