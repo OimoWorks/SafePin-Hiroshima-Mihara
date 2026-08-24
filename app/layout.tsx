@@ -29,11 +29,11 @@ export default function RootLayout({
         <meta property="og:title" content="SafePin三原版 - 三原市防災マップ（非公式）" />
         <meta property="og:description" content="三原市内の指定避難所・緊急避難場所・AED・公衆トイレをオフラインでも確認できる非公式の個人開発防災マップアプリ" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://safe-pin-one.vercel.app/ogp.png" />
+        <meta property="og:image" content="https://safe-pin-hiroshima-mihara.vercel.app/ogp.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="SafePin三原版 - 三原市防災マップ（非公式）" />
         <meta name="twitter:description" content="三原市内の指定避難所・緊急避難場所・AED・公衆トイレをオフラインでも確認できる非公式の個人開発防災マップアプリ" />
-        <meta name="twitter:image" content="https://safe-pin-one.vercel.app/ogp.png" />
+        <meta name="twitter:image" content="https://safe-pin-hiroshima-mihara.vercel.app/ogp.png" />
       </head>
       <body className="antialiased">
         <Script
