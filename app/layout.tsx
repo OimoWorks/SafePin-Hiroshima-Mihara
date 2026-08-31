@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 
-const GA_ID = "G-N02GWKB479";
+const GA_ID = "G-16B67S8ZEH";
 
 export const metadata: Metadata = {
   title: "SafePin三原版",
